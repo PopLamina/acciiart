@@ -1,0 +1,1 @@
+youtube-dl https://youtu.be/RlanyMqeHRw  -o - | \mplayer -vo caca -monitorpixelaspect 0.2 -
